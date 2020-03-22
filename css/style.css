@@ -526,8 +526,8 @@ ul {
 #videobcg {
     width: inherit;
     height: inherit;
-    -o-filter: blur(4px);
-    filter: blur(4px);
+    -o-filter: blur(1px);
+    filter: blur(1px);
     object-fit: cover;
     transform: scale(1.04);
 }
